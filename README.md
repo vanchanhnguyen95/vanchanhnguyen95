@@ -6,7 +6,7 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com)
 
-## **I'm a Software Engineer.**
+## **I'm a .Net Developer.**
 
 - 🎯 **I’m currently working on**: Mastering the intricacies of DDD and some advanced software architectures.
 - 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD /w Github Actions.
