@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucky Lemon! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=vanchanhnguyen95&color=blue)</div>
 
-[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com)
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)]([https://www.youtube.com](https://www.youtube.com/@Tips2Develop/playlists))
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com)
 
