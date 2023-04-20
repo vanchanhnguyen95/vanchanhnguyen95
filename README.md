@@ -2,9 +2,9 @@
 
 [![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/@Tips2Develop/playlists)
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/chanh-nguyen-528010256)
 
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com)
+[![MyBlog URL](https://img.shields.io/static/v1?color=blue&label=blog&logo=wordpress&logoColor=white&style=for-the-badge&message=Follow)](https://vanchanhnguyen95.wordpress.com)
 
 ## **I'm a .Net Developer.**
 
