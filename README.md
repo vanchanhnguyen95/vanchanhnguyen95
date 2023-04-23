@@ -6,7 +6,7 @@
 
 [![MyBlog URL](https://img.shields.io/static/v1?color=blue&label=blog&logo=wordpress&logoColor=white&style=for-the-badge&message=Follow)](https://vanchanhnguyen95.wordpress.com)
 
-## **I'm a .Net Developer.**
+## **I'm a Surveying and Mapping Engineering.**
 
 - 🎯 **I’m currently working on**: Mastering the intricacies of DDD and some advanced software architectures.
 - 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD /w Github Actions.
